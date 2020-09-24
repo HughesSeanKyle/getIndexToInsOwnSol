@@ -5,5 +5,4 @@ This is an alogorithm on free code camp.
         - Where do I belong - Own Solution 
         - My Notes
  
-# getIndexToInsSolOne
 # getIndexToInsOwnSol
